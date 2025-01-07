@@ -1,6 +1,6 @@
 import csv
 
-list_files = ["SRWM01.txt", "SRW01.txt", "SRW02.txt", "SSW01.txt", "SSW02.txt"]
+list_files = ["INPUT1.txt", "INPUT2.txt", "INPUT3.txt", "INPUT4.txt", "INPUTN.txt"]
 
 dialect = csv.excel
 dialect.delimiter = '\t'
