@@ -27,7 +27,7 @@ for file_name in list_files:
         final_dict[file_name] = out_dict
 
 # print(out_dict)
-print(final_dict)
+# print(final_dict)
 
 all_drug_classes = sorted(all_drug_classes)
 output_file = 'drug_class_counts_per_file.csv'
